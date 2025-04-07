@@ -4,7 +4,7 @@ Este site apresenta informações culturais, geográficas, históricas e turíst
 Foi desenvolvido como parte de um projeto acadêmico da **FATEC Itapira** utilizando **HTML, CSS e Bootstrap**, com hospedagem via **GitHub Pages**.
 
 ## 🌐 Acesse o site online:
-➡️ [Clique aqui para visitar o site](https://brendascarpioni.github.io/Volta-ao-Mundo---Su-cia/)
+➡️ [Clique aqui para visitar o site](https://brendascarpioni.github.io/Volta-ao-Mundo-Suecia/)
 
 ## ✨ Tecnologias utilizadas:
 - HTML5
